@@ -1,0 +1,13 @@
+# the channel ships only in the release zips
+*.wad
+
+project-notes/
+project-data/
+__pycache__/
+.venv/
+build/.venv/
+build/out/
+donor/
+build/tools/benzin/
+forwarder/*.elf
+forwarder/*.dol

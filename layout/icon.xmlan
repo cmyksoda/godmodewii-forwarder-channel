@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<xmlan version="2.1.12BETA" brlan_version="0008">
+			<pai1 framesize="600" flags="01">
+				<timg name="gmw_i00.tpl" />
+				<timg name="gmw_i01.tpl" />
+				<timg name="gmw_i02.tpl" />
+				<timg name="gmw_i03.tpl" />
+				<timg name="gmw_i04.tpl" />
+				<timg name="gmw_i05.tpl" />
+				<timg name="gmw_i06.tpl" />
+				<timg name="gmw_i07.tpl" />
+				<timg name="gmw_i08.tpl" />
+				<timg name="gmw_i09.tpl" />
+				<timg name="gmw_i10.tpl" />
+				<timg name="gmw_i11.tpl" />
+				<timg name="gmw_i12.tpl" />
+				<timg name="gmw_i13.tpl" />
+				<timg name="gmw_i14.tpl" />
+				<timg name="gmw_i15.tpl" />
+				<timg name="gmw_i16.tpl" />
+				<timg name="gmw_i17.tpl" />
+				<timg name="gmw_i18.tpl" />
+				<timg name="gmw_i19.tpl" />
+				<timg name="gmw_i20.tpl" />
+				<timg name="gmw_i21.tpl" />
+				<timg name="gmw_i22.tpl" />
+				<timg name="gmw_i23.tpl" />
+				<timg name="gmw_i24.tpl" />
+				<timg name="gmw_i25.tpl" />
+				<timg name="gmw_i26.tpl" />
+				<timg name="gmw_i27.tpl" />
+				<timg name="gmw_i28.tpl" />
+				<timg name="gmw_i29.tpl" />
+				<timg name="gmw_ibar0.tpl" />
+				<timg name="gmw_ibar1.tpl" />
+				<timg name="gmw_ibar2.tpl" />
+				<timg name="gmw_ibar3.tpl" />
+				<timg name="gmw_ibar4.tpl" />
+				<timg name="gmw_ibar5.tpl" />
+				<pane name="Goomba00Picture" type="0">
+					<tag type="RLPA">
+						<entry type1="0" type2="X Translation">
+							<triplet>
+								<frame>0.000000000000000</frame>
+								<value>218.000000000000000</value>
+								<blend>-1.614814814814815</blend>
+							</triplet>
+							<triplet>
+								<frame>270.000000000000000</frame>
+								<value>-218.000000000000000</value>
+								<blend>-1.614814814814815</blend>
+							</triplet>
+							<triplet>
+								<frame>271.000000000000000</frame>
+								<value>-218.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>599.000000000000000</frame>
+								<value>-218.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+						</entry>
+					</tag>
+				</pane>
+				<pane name="Mario00Picture" type="0">
+					<tag type="RLPA">
+						<entry type1="0" type2="Y Translation">
+							<triplet>
+								<frame>0.000000000000000</frame>
+								<value>-32.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>470.000000000000000</frame>
+								<value>-32.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>471.000000000000000</frame>
+								<value>-16.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>506.000000000000000</frame>
+								<value>-16.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>507.000000000000000</frame>
+								<value>0.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+						</entry>
+					</tag>
+					<tag type="RLVC">
+						<entry type1="0" type2="16">
+							<triplet>
+								<frame>0.000000000000000</frame>
+								<value>0.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>270.000000000000000</frame>
+								<value>0.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>300.000000000000000</frame>
+								<value>255.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>570.000000000000000</frame>
+								<value>255.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>599.000000000000000</frame>
+								<value>0.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+						</entry>
+					</tag>
+				</pane>
+				<pane name="Logo00Picture" type="0">
+					<tag type="RLPA">
+						<entry type1="0" type2="Y Translation">
+							<triplet>
+								<frame>0.000000000000000</frame>
+								<value>16.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>362.000000000000000</frame>
+								<value>16.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>363.000000000000000</frame>
+								<value>0.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>398.000000000000000</frame>
+								<value>0.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>399.000000000000000</frame>
+								<value>-16.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>434.000000000000000</frame>
+								<value>-16.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>435.000000000000000</frame>
+								<value>-32.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+						</entry>
+					</tag>
+					<tag type="RLVC">
+						<entry type1="0" type2="16">
+							<triplet>
+								<frame>0.000000000000000</frame>
+								<value>0.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>270.000000000000000</frame>
+								<value>0.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>300.000000000000000</frame>
+								<value>255.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>570.000000000000000</frame>
+								<value>255.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>599.000000000000000</frame>
+								<value>0.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+						</entry>
+					</tag>
+				</pane>
+				<pane name="HeaderPicture" type="0">
+					<tag type="RLVC">
+						<entry type1="0" type2="16">
+							<triplet>
+								<frame>0.000000000000000</frame>
+								<value>0.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>270.000000000000000</frame>
+								<value>0.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>300.000000000000000</frame>
+								<value>255.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>570.000000000000000</frame>
+								<value>255.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>599.000000000000000</frame>
+								<value>0.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+						</entry>
+					</tag>
+				</pane>
+				<pane name="FooterPicture" type="0">
+					<tag type="RLVC">
+						<entry type1="0" type2="16">
+							<triplet>
+								<frame>0.000000000000000</frame>
+								<value>0.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>270.000000000000000</frame>
+								<value>0.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>300.000000000000000</frame>
+								<value>255.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>570.000000000000000</frame>
+								<value>255.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+							<triplet>
+								<frame>599.000000000000000</frame>
+								<value>0.000000000000000</value>
+								<blend>0.000000000000000</blend>
+							</triplet>
+						</entry>
+					</tag>
+				</pane>
+				<pane name="Tunnel00Material" type="1"><tag type="RLTP"><entry type1="1" type2="PaletteZero"><pair><data1>0.000000000000000</data1><data2>0000</data2><padding>0000</padding></pair><pair><data1>5.000000000000000</data1><data2>0001</data2><padding>0000</padding></pair><pair><data1>10.000000000000000</data1><data2>0002</data2><padding>0000</padding></pair><pair><data1>15.000000000000000</data1><data2>0003</data2><padding>0000</padding></pair><pair><data1>20.000000000000000</data1><data2>0004</data2><padding>0000</padding></pair><pair><data1>25.000000000000000</data1><data2>0005</data2><padding>0000</padding></pair><pair><data1>30.000000000000000</data1><data2>0006</data2><padding>0000</padding></pair><pair><data1>35.000000000000000</data1><data2>0007</data2><padding>0000</padding></pair><pair><data1>40.000000000000000</data1><data2>0008</data2><padding>0000</padding></pair><pair><data1>45.000000000000000</data1><data2>0009</data2><padding>0000</padding></pair><pair><data1>50.000000000000000</data1><data2>000a</data2><padding>0000</padding></pair><pair><data1>55.000000000000000</data1><data2>000b</data2><padding>0000</padding></pair><pair><data1>60.000000000000000</data1><data2>000c</data2><padding>0000</padding></pair><pair><data1>65.000000000000000</data1><data2>000d</data2><padding>0000</padding></pair><pair><data1>70.000000000000000</data1><data2>000e</data2><padding>0000</padding></pair><pair><data1>75.000000000000000</data1><data2>000f</data2><padding>0000</padding></pair><pair><data1>80.000000000000000</data1><data2>0010</data2><padding>0000</padding></pair><pair><data1>85.000000000000000</data1><data2>0011</data2><padding>0000</padding></pair><pair><data1>90.000000000000000</data1><data2>0012</data2><padding>0000</padding></pair><pair><data1>95.000000000000000</data1><data2>0013</data2><padding>0000</padding></pair><pair><data1>100.000000000000000</data1><data2>0014</data2><padding>0000</padding></pair><pair><data1>105.000000000000000</data1><data2>0015</data2><padding>0000</padding></pair><pair><data1>110.000000000000000</data1><data2>0016</data2><padding>0000</padding></pair><pair><data1>115.000000000000000</data1><data2>0017</data2><padding>0000</padding></pair><pair><data1>120.000000000000000</data1><data2>0018</data2><padding>0000</padding></pair><pair><data1>125.000000000000000</data1><data2>0019</data2><padding>0000</padding></pair><pair><data1>130.000000000000000</data1><data2>001a</data2><padding>0000</padding></pair><pair><data1>135.000000000000000</data1><data2>001b</data2><padding>0000</padding></pair><pair><data1>140.000000000000000</data1><data2>001c</data2><padding>0000</padding></pair><pair><data1>145.000000000000000</data1><data2>001d</data2><padding>0000</padding></pair><pair><data1>150.000000000000000</data1><data2>0000</data2><padding>0000</padding></pair><pair><data1>155.000000000000000</data1><data2>0001</data2><padding>0000</padding></pair><pair><data1>160.000000000000000</data1><data2>0002</data2><padding>0000</padding></pair><pair><data1>165.000000000000000</data1><data2>0003</data2><padding>0000</padding></pair><pair><data1>170.000000000000000</data1><data2>0004</data2><padding>0000</padding></pair><pair><data1>175.000000000000000</data1><data2>0005</data2><padding>0000</padding></pair><pair><data1>180.000000000000000</data1><data2>0006</data2><padding>0000</padding></pair><pair><data1>185.000000000000000</data1><data2>0007</data2><padding>0000</padding></pair><pair><data1>190.000000000000000</data1><data2>0008</data2><padding>0000</padding></pair><pair><data1>195.000000000000000</data1><data2>0009</data2><padding>0000</padding></pair><pair><data1>200.000000000000000</data1><data2>000a</data2><padding>0000</padding></pair><pair><data1>205.000000000000000</data1><data2>000b</data2><padding>0000</padding></pair><pair><data1>210.000000000000000</data1><data2>000c</data2><padding>0000</padding></pair><pair><data1>215.000000000000000</data1><data2>000d</data2><padding>0000</padding></pair><pair><data1>220.000000000000000</data1><data2>000e</data2><padding>0000</padding></pair><pair><data1>225.000000000000000</data1><data2>000f</data2><padding>0000</padding></pair><pair><data1>230.000000000000000</data1><data2>0010</data2><padding>0000</padding></pair><pair><data1>235.000000000000000</data1><data2>0011</data2><padding>0000</padding></pair><pair><data1>240.000000000000000</data1><data2>0012</data2><padding>0000</padding></pair><pair><data1>245.000000000000000</data1><data2>0013</data2><padding>0000</padding></pair><pair><data1>250.000000000000000</data1><data2>0014</data2><padding>0000</padding></pair><pair><data1>255.000000000000000</data1><data2>0015</data2><padding>0000</padding></pair><pair><data1>260.000000000000000</data1><data2>0016</data2><padding>0000</padding></pair><pair><data1>265.000000000000000</data1><data2>0017</data2><padding>0000</padding></pair><pair><data1>270.000000000000000</data1><data2>0018</data2><padding>0000</padding></pair><pair><data1>275.000000000000000</data1><data2>0019</data2><padding>0000</padding></pair><pair><data1>280.000000000000000</data1><data2>001a</data2><padding>0000</padding></pair><pair><data1>285.000000000000000</data1><data2>001b</data2><padding>0000</padding></pair><pair><data1>290.000000000000000</data1><data2>001c</data2><padding>0000</padding></pair><pair><data1>295.000000000000000</data1><data2>001d</data2><padding>0000</padding></pair><pair><data1>300.000000000000000</data1><data2>0000</data2><padding>0000</padding></pair><pair><data1>305.000000000000000</data1><data2>0001</data2><padding>0000</padding></pair><pair><data1>310.000000000000000</data1><data2>0002</data2><padding>0000</padding></pair><pair><data1>315.000000000000000</data1><data2>0003</data2><padding>0000</padding></pair><pair><data1>320.000000000000000</data1><data2>0004</data2><padding>0000</padding></pair><pair><data1>325.000000000000000</data1><data2>0005</data2><padding>0000</padding></pair><pair><data1>330.000000000000000</data1><data2>0006</data2><padding>0000</padding></pair><pair><data1>335.000000000000000</data1><data2>0007</data2><padding>0000</padding></pair><pair><data1>340.000000000000000</data1><data2>0008</data2><padding>0000</padding></pair><pair><data1>345.000000000000000</data1><data2>0009</data2><padding>0000</padding></pair><pair><data1>350.000000000000000</data1><data2>000a</data2><padding>0000</padding></pair><pair><data1>355.000000000000000</data1><data2>000b</data2><padding>0000</padding></pair><pair><data1>360.000000000000000</data1><data2>000c</data2><padding>0000</padding></pair><pair><data1>365.000000000000000</data1><data2>000d</data2><padding>0000</padding></pair><pair><data1>370.000000000000000</data1><data2>000e</data2><padding>0000</padding></pair><pair><data1>375.000000000000000</data1><data2>000f</data2><padding>0000</padding></pair><pair><data1>380.000000000000000</data1><data2>0010</data2><padding>0000</padding></pair><pair><data1>385.000000000000000</data1><data2>0011</data2><padding>0000</padding></pair><pair><data1>390.000000000000000</data1><data2>0012</data2><padding>0000</padding></pair><pair><data1>395.000000000000000</data1><data2>0013</data2><padding>0000</padding></pair><pair><data1>400.000000000000000</data1><data2>0014</data2><padding>0000</padding></pair><pair><data1>405.000000000000000</data1><data2>0015</data2><padding>0000</padding></pair><pair><data1>410.000000000000000</data1><data2>0016</data2><padding>0000</padding></pair><pair><data1>415.000000000000000</data1><data2>0017</data2><padding>0000</padding></pair><pair><data1>420.000000000000000</data1><data2>0018</data2><padding>0000</padding></pair><pair><data1>425.000000000000000</data1><data2>0019</data2><padding>0000</padding></pair><pair><data1>430.000000000000000</data1><data2>001a</data2><padding>0000</padding></pair><pair><data1>435.000000000000000</data1><data2>001b</data2><padding>0000</padding></pair><pair><data1>440.000000000000000</data1><data2>001c</data2><padding>0000</padding></pair><pair><data1>445.000000000000000</data1><data2>001d</data2><padding>0000</padding></pair><pair><data1>450.000000000000000</data1><data2>0000</data2><padding>0000</padding></pair><pair><data1>455.000000000000000</data1><data2>0001</data2><padding>0000</padding></pair><pair><data1>460.000000000000000</data1><data2>0002</data2><padding>0000</padding></pair><pair><data1>465.000000000000000</data1><data2>0003</data2><padding>0000</padding></pair><pair><data1>470.000000000000000</data1><data2>0004</data2><padding>0000</padding></pair><pair><data1>475.000000000000000</data1><data2>0005</data2><padding>0000</padding></pair><pair><data1>480.000000000000000</data1><data2>0006</data2><padding>0000</padding></pair><pair><data1>485.000000000000000</data1><data2>0007</data2><padding>0000</padding></pair><pair><data1>490.000000000000000</data1><data2>0008</data2><padding>0000</padding></pair><pair><data1>495.000000000000000</data1><data2>0009</data2><padding>0000</padding></pair><pair><data1>500.000000000000000</data1><data2>000a</data2><padding>0000</padding></pair><pair><data1>505.000000000000000</data1><data2>000b</data2><padding>0000</padding></pair><pair><data1>510.000000000000000</data1><data2>000c</data2><padding>0000</padding></pair><pair><data1>515.000000000000000</data1><data2>000d</data2><padding>0000</padding></pair><pair><data1>520.000000000000000</data1><data2>000e</data2><padding>0000</padding></pair><pair><data1>525.000000000000000</data1><data2>000f</data2><padding>0000</padding></pair><pair><data1>530.000000000000000</data1><data2>0010</data2><padding>0000</padding></pair><pair><data1>535.000000000000000</data1><data2>0011</data2><padding>0000</padding></pair><pair><data1>540.000000000000000</data1><data2>0012</data2><padding>0000</padding></pair><pair><data1>545.000000000000000</data1><data2>0013</data2><padding>0000</padding></pair><pair><data1>550.000000000000000</data1><data2>0014</data2><padding>0000</padding></pair><pair><data1>555.000000000000000</data1><data2>0015</data2><padding>0000</padding></pair><pair><data1>560.000000000000000</data1><data2>0016</data2><padding>0000</padding></pair><pair><data1>565.000000000000000</data1><data2>0017</data2><padding>0000</padding></pair><pair><data1>570.000000000000000</data1><data2>0018</data2><padding>0000</padding></pair><pair><data1>575.000000000000000</data1><data2>0019</data2><padding>0000</padding></pair><pair><data1>580.000000000000000</data1><data2>001a</data2><padding>0000</padding></pair><pair><data1>585.000000000000000</data1><data2>001b</data2><padding>0000</padding></pair><pair><data1>590.000000000000000</data1><data2>001c</data2><padding>0000</padding></pair><pair><data1>595.000000000000000</data1><data2>001d</data2><padding>0000</padding></pair></entry></tag></pane>
+				<pane name="Tunnel01Material" type="1"><tag type="RLTP"><entry type1="1" type2="PaletteZero"><pair><data1>0.000000000000000</data1><data2>0000</data2><padding>0000</padding></pair><pair><data1>5.000000000000000</data1><data2>0001</data2><padding>0000</padding></pair><pair><data1>10.000000000000000</data1><data2>0002</data2><padding>0000</padding></pair><pair><data1>15.000000000000000</data1><data2>0003</data2><padding>0000</padding></pair><pair><data1>20.000000000000000</data1><data2>0004</data2><padding>0000</padding></pair><pair><data1>25.000000000000000</data1><data2>0005</data2><padding>0000</padding></pair><pair><data1>30.000000000000000</data1><data2>0006</data2><padding>0000</padding></pair><pair><data1>35.000000000000000</data1><data2>0007</data2><padding>0000</padding></pair><pair><data1>40.000000000000000</data1><data2>0008</data2><padding>0000</padding></pair><pair><data1>45.000000000000000</data1><data2>0009</data2><padding>0000</padding></pair><pair><data1>50.000000000000000</data1><data2>000a</data2><padding>0000</padding></pair><pair><data1>55.000000000000000</data1><data2>000b</data2><padding>0000</padding></pair><pair><data1>60.000000000000000</data1><data2>000c</data2><padding>0000</padding></pair><pair><data1>65.000000000000000</data1><data2>000d</data2><padding>0000</padding></pair><pair><data1>70.000000000000000</data1><data2>000e</data2><padding>0000</padding></pair><pair><data1>75.000000000000000</data1><data2>000f</data2><padding>0000</padding></pair><pair><data1>80.000000000000000</data1><data2>0010</data2><padding>0000</padding></pair><pair><data1>85.000000000000000</data1><data2>0011</data2><padding>0000</padding></pair><pair><data1>90.000000000000000</data1><data2>0012</data2><padding>0000</padding></pair><pair><data1>95.000000000000000</data1><data2>0013</data2><padding>0000</padding></pair><pair><data1>100.000000000000000</data1><data2>0014</data2><padding>0000</padding></pair><pair><data1>105.000000000000000</data1><data2>0015</data2><padding>0000</padding></pair><pair><data1>110.000000000000000</data1><data2>0016</data2><padding>0000</padding></pair><pair><data1>115.000000000000000</data1><data2>0017</data2><padding>0000</padding></pair><pair><data1>120.000000000000000</data1><data2>0018</data2><padding>0000</padding></pair><pair><data1>125.000000000000000</data1><data2>0019</data2><padding>0000</padding></pair><pair><data1>130.000000000000000</data1><data2>001a</data2><padding>0000</padding></pair><pair><data1>135.000000000000000</data1><data2>001b</data2><padding>0000</padding></pair><pair><data1>140.000000000000000</data1><data2>001c</data2><padding>0000</padding></pair><pair><data1>145.000000000000000</data1><data2>001d</data2><padding>0000</padding></pair><pair><data1>150.000000000000000</data1><data2>0000</data2><padding>0000</padding></pair><pair><data1>155.000000000000000</data1><data2>0001</data2><padding>0000</padding></pair><pair><data1>160.000000000000000</data1><data2>0002</data2><padding>0000</padding></pair><pair><data1>165.000000000000000</data1><data2>0003</data2><padding>0000</padding></pair><pair><data1>170.000000000000000</data1><data2>0004</data2><padding>0000</padding></pair><pair><data1>175.000000000000000</data1><data2>0005</data2><padding>0000</padding></pair><pair><data1>180.000000000000000</data1><data2>0006</data2><padding>0000</padding></pair><pair><data1>185.000000000000000</data1><data2>0007</data2><padding>0000</padding></pair><pair><data1>190.000000000000000</data1><data2>0008</data2><padding>0000</padding></pair><pair><data1>195.000000000000000</data1><data2>0009</data2><padding>0000</padding></pair><pair><data1>200.000000000000000</data1><data2>000a</data2><padding>0000</padding></pair><pair><data1>205.000000000000000</data1><data2>000b</data2><padding>0000</padding></pair><pair><data1>210.000000000000000</data1><data2>000c</data2><padding>0000</padding></pair><pair><data1>215.000000000000000</data1><data2>000d</data2><padding>0000</padding></pair><pair><data1>220.000000000000000</data1><data2>000e</data2><padding>0000</padding></pair><pair><data1>225.000000000000000</data1><data2>000f</data2><padding>0000</padding></pair><pair><data1>230.000000000000000</data1><data2>0010</data2><padding>0000</padding></pair><pair><data1>235.000000000000000</data1><data2>0011</data2><padding>0000</padding></pair><pair><data1>240.000000000000000</data1><data2>0012</data2><padding>0000</padding></pair><pair><data1>245.000000000000000</data1><data2>0013</data2><padding>0000</padding></pair><pair><data1>250.000000000000000</data1><data2>0014</data2><padding>0000</padding></pair><pair><data1>255.000000000000000</data1><data2>0015</data2><padding>0000</padding></pair><pair><data1>260.000000000000000</data1><data2>0016</data2><padding>0000</padding></pair><pair><data1>265.000000000000000</data1><data2>0017</data2><padding>0000</padding></pair><pair><data1>270.000000000000000</data1><data2>0018</data2><padding>0000</padding></pair><pair><data1>275.000000000000000</data1><data2>0019</data2><padding>0000</padding></pair><pair><data1>280.000000000000000</data1><data2>001a</data2><padding>0000</padding></pair><pair><data1>285.000000000000000</data1><data2>001b</data2><padding>0000</padding></pair><pair><data1>290.000000000000000</data1><data2>001c</data2><padding>0000</padding></pair><pair><data1>295.000000000000000</data1><data2>001d</data2><padding>0000</padding></pair><pair><data1>300.000000000000000</data1><data2>0000</data2><padding>0000</padding></pair><pair><data1>305.000000000000000</data1><data2>0001</data2><padding>0000</padding></pair><pair><data1>310.000000000000000</data1><data2>0002</data2><padding>0000</padding></pair><pair><data1>315.000000000000000</data1><data2>0003</data2><padding>0000</padding></pair><pair><data1>320.000000000000000</data1><data2>0004</data2><padding>0000</padding></pair><pair><data1>325.000000000000000</data1><data2>0005</data2><padding>0000</padding></pair><pair><data1>330.000000000000000</data1><data2>0006</data2><padding>0000</padding></pair><pair><data1>335.000000000000000</data1><data2>0007</data2><padding>0000</padding></pair><pair><data1>340.000000000000000</data1><data2>0008</data2><padding>0000</padding></pair><pair><data1>345.000000000000000</data1><data2>0009</data2><padding>0000</padding></pair><pair><data1>350.000000000000000</data1><data2>000a</data2><padding>0000</padding></pair><pair><data1>355.000000000000000</data1><data2>000b</data2><padding>0000</padding></pair><pair><data1>360.000000000000000</data1><data2>000c</data2><padding>0000</padding></pair><pair><data1>365.000000000000000</data1><data2>000d</data2><padding>0000</padding></pair><pair><data1>370.000000000000000</data1><data2>000e</data2><padding>0000</padding></pair><pair><data1>375.000000000000000</data1><data2>000f</data2><padding>0000</padding></pair><pair><data1>380.000000000000000</data1><data2>0010</data2><padding>0000</padding></pair><pair><data1>385.000000000000000</data1><data2>0011</data2><padding>0000</padding></pair><pair><data1>390.000000000000000</data1><data2>0012</data2><padding>0000</padding></pair><pair><data1>395.000000000000000</data1><data2>0013</data2><padding>0000</padding></pair><pair><data1>400.000000000000000</data1><data2>0014</data2><padding>0000</padding></pair><pair><data1>405.000000000000000</data1><data2>0015</data2><padding>0000</padding></pair><pair><data1>410.000000000000000</data1><data2>0016</data2><padding>0000</padding></pair><pair><data1>415.000000000000000</data1><data2>0017</data2><padding>0000</padding></pair><pair><data1>420.000000000000000</data1><data2>0018</data2><padding>0000</padding></pair><pair><data1>425.000000000000000</data1><data2>0019</data2><padding>0000</padding></pair><pair><data1>430.000000000000000</data1><data2>001a</data2><padding>0000</padding></pair><pair><data1>435.000000000000000</data1><data2>001b</data2><padding>0000</padding></pair><pair><data1>440.000000000000000</data1><data2>001c</data2><padding>0000</padding></pair><pair><data1>445.000000000000000</data1><data2>001d</data2><padding>0000</padding></pair><pair><data1>450.000000000000000</data1><data2>0000</data2><padding>0000</padding></pair><pair><data1>455.000000000000000</data1><data2>0001</data2><padding>0000</padding></pair><pair><data1>460.000000000000000</data1><data2>0002</data2><padding>0000</padding></pair><pair><data1>465.000000000000000</data1><data2>0003</data2><padding>0000</padding></pair><pair><data1>470.000000000000000</data1><data2>0004</data2><padding>0000</padding></pair><pair><data1>475.000000000000000</data1><data2>0005</data2><padding>0000</padding></pair><pair><data1>480.000000000000000</data1><data2>0006</data2><padding>0000</padding></pair><pair><data1>485.000000000000000</data1><data2>0007</data2><padding>0000</padding></pair><pair><data1>490.000000000000000</data1><data2>0008</data2><padding>0000</padding></pair><pair><data1>495.000000000000000</data1><data2>0009</data2><padding>0000</padding></pair><pair><data1>500.000000000000000</data1><data2>000a</data2><padding>0000</padding></pair><pair><data1>505.000000000000000</data1><data2>000b</data2><padding>0000</padding></pair><pair><data1>510.000000000000000</data1><data2>000c</data2><padding>0000</padding></pair><pair><data1>515.000000000000000</data1><data2>000d</data2><padding>0000</padding></pair><pair><data1>520.000000000000000</data1><data2>000e</data2><padding>0000</padding></pair><pair><data1>525.000000000000000</data1><data2>000f</data2><padding>0000</padding></pair><pair><data1>530.000000000000000</data1><data2>0010</data2><padding>0000</padding></pair><pair><data1>535.000000000000000</data1><data2>0011</data2><padding>0000</padding></pair><pair><data1>540.000000000000000</data1><data2>0012</data2><padding>0000</padding></pair><pair><data1>545.000000000000000</data1><data2>0013</data2><padding>0000</padding></pair><pair><data1>550.000000000000000</data1><data2>0014</data2><padding>0000</padding></pair><pair><data1>555.000000000000000</data1><data2>0015</data2><padding>0000</padding></pair><pair><data1>560.000000000000000</data1><data2>0016</data2><padding>0000</padding></pair><pair><data1>565.000000000000000</data1><data2>0017</data2><padding>0000</padding></pair><pair><data1>570.000000000000000</data1><data2>0018</data2><padding>0000</padding></pair><pair><data1>575.000000000000000</data1><data2>0019</data2><padding>0000</padding></pair><pair><data1>580.000000000000000</data1><data2>001a</data2><padding>0000</padding></pair><pair><data1>585.000000000000000</data1><data2>001b</data2><padding>0000</padding></pair><pair><data1>590.000000000000000</data1><data2>001c</data2><padding>0000</padding></pair><pair><data1>595.000000000000000</data1><data2>001d</data2><padding>0000</padding></pair></entry></tag></pane>
+				<pane name="Logo00Material" type="1"><tag type="RLTP"><entry type1="0" type2="PaletteZero"><pair><data1>0.000000000000000</data1><data2>001e</data2><padding>0000</padding></pair><pair><data1>363.000000000000000</data1><data2>001f</data2><padding>0000</padding></pair><pair><data1>399.000000000000000</data1><data2>0020</data2><padding>0000</padding></pair><pair><data1>435.000000000000000</data1><data2>0021</data2><padding>0000</padding></pair><pair><data1>471.000000000000000</data1><data2>0022</data2><padding>0000</padding></pair><pair><data1>507.000000000000000</data1><data2>0023</data2><padding>0000</padding></pair></entry></tag></pane>
+			</pai1>
+		</xmlan>
